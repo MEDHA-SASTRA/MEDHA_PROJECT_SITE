@@ -25,7 +25,7 @@ const ABOUT = {
     },
     {
       t: "Learning Objectives",
-      d: "• Understand the role of AI and digital tools in modern mathematics teaching.\n\n• Use GeoGebra to create geometric constructions, graphs, and dynamic models.\n\n• Use Desmos to plot functions, build sliders, and design interactive classroom activities.\n\n• Use AI tools to generate lesson plans, questions, examples, and assessments.\n\n• Design activities that promote exploration, pattern recognition, and problem solving.\n\n• Integrate these tools into the current curriculum in a practical and time-efficient manner.\n\n• Assess students' understanding using digital and interactive evaluation methods"
+      d: "To understand the role of AI and digital tools in modern mathematics teaching.\n\nTo create geometric constructions, graphs, and dynamic models using GeoGebra.\n\nTo plot functions, build sliders, and design interactive classroom activities using Desmos.\n\nTo use AI tools to generate lesson plans, questions, worked examples, and assessments.\n\nTo integrate these tools into the existing curriculum in a practical and time-efficient manner\n\nTo assess students’ understanding using digital and interactive evaluation methods."
     },
     {
       t: "Target Audience",
@@ -38,11 +38,11 @@ const ABOUT = {
   ]
 };
 const VISION = [
-  { t: "Our Vision", d: "To transform school Mathematics education through Digital and Human-Centred Artificial Intelligence (AI), fostering conceptual understanding, logical reasoning, creativity, and problem-solving skills among students, while building an inclusive, innovative, and future-ready learning ecosystem." },
-  { t: "Our Mission", d: "To empower school Mathematics teachers, particularly those teaching Grades VI–XII, through structured training and hands-on exposure to AI tools, digital applications, and innovative pedagogical practices. MEDHA aims to promote AI-assisted lesson planning, assessment, mathematical concept visualization, and digital teaching material development; address classroom learning challenges through AI-based solutions; and establish a sustainable ecosystem of reusable educational resources and collaborative innovation to improve Mathematics teaching and learning, with particular emphasis on equitable access for rural and underserved schools." },
+  { t: " ", d: "To transform school Mathematics education through Digital and Human-Centred Artificial Intelligence (AI), fostering conceptual understanding, logical reasoning, creativity, and problem-solving skills among students, while building an inclusive, innovative, and future-ready learning ecosystem." },
+  { t: " ", d: "To empower school Mathematics teachers, particularly those teaching Grades VI–XII, through structured training and hands-on exposure to AI tools, digital applications, and innovative pedagogical practices. MEDHA aims to promote AI-assisted lesson planning, assessment, mathematical concept visualization, and digital teaching material development; address classroom learning challenges through AI-based solutions; and establish a sustainable ecosystem of reusable educational resources and collaborative innovation to improve Mathematics teaching and learning, with particular emphasis on equitable access for rural and underserved schools." },
   {
-    t: "Educational Impact",
-    d: "• Improved understanding: Students move from rote learning to conceptual understanding and reasoning.\n\n• Higher engagement: Interactive lessons raise interest, participation, and curiosity in mathematics.\n\n• Reduced fear of maths: Visual and playful exploration makes the subject less intimidating.\n\n• Multiplier effect: Each trained teacher reaches hundreds of students and can mentor colleagues, so the impact spreads across schools.\n\n• Long-term outcomes: Stronger problem-solving, analytical, and digital skills that prepare students for higher studies."
+    t: " ",
+    d: " Improved understanding: Students move from rote learning to conceptual understanding and reasoning.\n\n Higher engagement: Interactive lessons raise interest, participation, and curiosity in mathematics.\n\n Reduced fear of maths: Visual and playful exploration makes the subject less intimidating.\n\n Multiplier effect: Each trained teacher reaches hundreds of students and can mentor colleagues, so the impact spreads across schools.\n\n Long-term outcomes: Stronger problem-solving, analytical, and digital skills that prepare students for higher studies."
   }
 ];
 /* GeoGebra Manual PDFs: ONE manual card per class (Classes 6, 8, 9). Class 7 has one per TERM (shown only after a term is selected).
