@@ -25,15 +25,15 @@ const ABOUT = {
     },
     {
       t: "Learning Objectives",
-      d: "By the end of the training, teachers will be able to:\n\n• Understand the role of AI and digital tools in modern mathematics teaching.\n\n• Use GeoGebra to create geometric constructions, graphs, and dynamic models.\n\n• Use Desmos to plot functions, build sliders, and design interactive classroom activities.\n\n• Use AI tools to generate lesson plans, questions, examples, and assessments.\n\n• Design activities that promote exploration, pattern recognition, and problem solving.\n\n• Integrate these tools into the existing curriculum in a practical, time-efficient way.\n\n• Evaluate student understanding using digital and interactive assessments.\n\n• Share and adapt ready-made resources from GeoGebra and Desmos communities."
+      d: "• Understand the role of AI and digital tools in modern mathematics teaching.\n\n• Use GeoGebra to create geometric constructions, graphs, and dynamic models.\n\n• Use Desmos to plot functions, build sliders, and design interactive classroom activities.\n\n• Use AI tools to generate lesson plans, questions, examples, and assessments.\n\n• Design activities that promote exploration, pattern recognition, and problem solving.\n\n• Integrate these tools into the current curriculum in a practical and time-efficient manner.\n\n• Assess students' understanding using digital and interactive evaluation methods"
     },
     {
-      t: "Target Students",
-      d: "Primary participants (trainees): School mathematics teachers, upper primary to higher secondary, from government, aided, and private schools. Teacher educators and B.Ed. trainees may also join.\n\nUltimate beneficiaries: Students in classes 6 to 12, who will learn algebra, geometry, trigonometry, coordinate geometry, functions, and calculus through interactive visual methods. The approach suits learners of mixed ability, including those who find mathematics difficult and those who want deeper challenge."
+      t: "Target Audience",
+      d: "School mathematics teachers teaching at the  upper primary, secondary and  higher secondary levels in government, aided, and private schools. B.Ed. Students can also benefit from this training."
     },
     {
       t: "Educational Benefits",
-      d: "• Better visualisation: Abstract concepts such as functions, transformations, and loci become clear through dynamic diagrams.\n\n• Active learning: Students experiment with sliders and constructions and discover rules themselves.\n\n• Time saving for teachers: AI helps prepare worksheets, quizzes, and lesson ideas quickly.\n\n• Instant feedback: Students can check ideas immediately and correct misconceptions.\n\n• Personalised learning: Activities can be adapted to different levels and learning speeds.\n\n• Free and accessible tools: GeoGebra and Desmos are free and work on phones, tablets, and computers.\n\n• Teacher professional growth: Builds digital competence and confidence in new pedagogy."
+      d: "Interactive digital tools offer several benefits in mathematics education. They make abstract concepts such as functions, transformations, and geometric paths easier to understand through dynamic diagrams. Students engage in active learning by experimenting with sliders and constructions to discover mathematical rules on their own.\n\n • AI tools help teachers save time by preparing worksheets, quizzes, and lesson ideas quickly. Students receive instant feedback, enabling them to check their answers and correct misconceptions.\n\n • Learning activities can be personalised to suit students’ different learning levels and speeds."
     }
   ]
 };
@@ -99,9 +99,9 @@ const LESSONS = [
  
  
   { cls: 8, no: 1, title: "Solving a Simple Linear Equation ", topic: "Algebra", image: "src/cards/algebra.svg", desc: "Finding the unknown in a linear equation", duration: "", demo: "/src/Videos/Class_8/class_8_video_1.mp4", added: "" },
-  { cls: 8, no: 2, title: "Graphing Linear Equations", topic: "Geometry", image: "src/cards/geometry.svg", desc: "Multiplying single algebraic terms", duration: "", demo: "/src/Videos/Class_8/class_8_video_2.mp4", added: "" },
+  { cls: 8, no: 2, title: "Product of Monomials", topic: "Geometry", image: "src/cards/geometry.svg", desc: "Multiplying single algebraic terms", duration: "", demo: "/src/Videos/Class_8/class_8_video_2.mp4", added: "" },
   { cls: 8, no: 3, title: "Expansion of (x + a)³", topic: "Mensuration", image: "src/cards/mensuration.svg", desc: "Expanding the cube of a binomial", duration: "", demo: "/src/Videos/Class_8/class_8_video_3.mp4", added: "" },
-  { cls: 8, no: 4, title: "Product of Monomials", topic: "Algebra", image: "src/cards/algebra.svg", desc: "Drawing linear equations on a graph", duration: "", demo: "/src/Videos/Class_8/class_8_video_4.mp4", added: "" },
+  { cls: 8, no: 4, title: "Graphing Linear Equations", topic: "Algebra", image: "src/cards/algebra.svg", desc: "Drawing linear equations on a graph", duration: "", demo: "/src/Videos/Class_8/class_8_video_4.mp4", added: "" },
   { cls: 8, no: 5, title: "Product of a Monomial by a Polynomial", topic: "Algebra", image: "src/cards/algebra.svg", desc: "Multiplying a single term by a polynomial", duration: "", demo: "/src/Videos/Class_8/class_8_video_5.mp4", added: "" },
  
   { cls: 9, no: 1, title: "Remainder Theorem", topic: "Geometry", image: "src/cards/geometry.svg", desc: "Finding remainders when dividing polynomials", duration: "", demo: "/src/Videos/Class_9/class_9_video_5.mp4", added: "" },
