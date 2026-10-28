@@ -99,9 +99,9 @@ const LESSONS = [
  
  
   { cls: 8, no: 1, title: "Solving a Simple Linear Equation ", topic: "Algebra", image: "src/cards/algebra.svg", desc: "Finding the unknown in a linear equation", duration: "", demo: "/src/Videos/Class_8/class_8_video_1.mp4", added: "" },
-  { cls: 8, no: 2, title: "Product of Monomials", topic: "Geometry", image: "src/cards/geometry.svg", desc: "Multiplying single algebraic terms", duration: "", demo: "/src/Videos/Class_8/class_8_video_2.mp4", added: "" },
+  { cls: 8, no: 2, title: "Graphing Linear Equations", topic: "Geometry", image: "src/cards/geometry.svg", desc: "Multiplying single algebraic terms", duration: "", demo: "/src/Videos/Class_8/class_8_video_2.mp4", added: "" },
   { cls: 8, no: 3, title: "Expansion of (x + a)³", topic: "Mensuration", image: "src/cards/mensuration.svg", desc: "Expanding the cube of a binomial", duration: "", demo: "/src/Videos/Class_8/class_8_video_3.mp4", added: "" },
-  { cls: 8, no: 4, title: "Graphing Linear Equations", topic: "Algebra", image: "src/cards/algebra.svg", desc: "Drawing linear equations on a graph", duration: "", demo: "/src/Videos/Class_8/class_8_video_4.mp4", added: "" },
+  { cls: 8, no: 4, title: "Product of Monomials", topic: "Algebra", image: "src/cards/algebra.svg", desc: "Drawing linear equations on a graph", duration: "", demo: "/src/Videos/Class_8/class_8_video_4.mp4", added: "" },
   { cls: 8, no: 5, title: "Product of a Monomial by a Polynomial", topic: "Algebra", image: "src/cards/algebra.svg", desc: "Multiplying a single term by a polynomial", duration: "", demo: "/src/Videos/Class_8/class_8_video_5.mp4", added: "" },
  
   { cls: 9, no: 1, title: "Remainder Theorem", topic: "Geometry", image: "src/cards/geometry.svg", desc: "Finding remainders when dividing polynomials", duration: "", demo: "/src/Videos/Class_9/class_9_video_5.mp4", added: "" },
