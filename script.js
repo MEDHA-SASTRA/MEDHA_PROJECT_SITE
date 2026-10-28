@@ -82,7 +82,7 @@ const LESSONS = [
   { cls: 6, no: 4, title: "Shape Pattern Detection", topic: "Mensuration", image: "src/cards/mensuration.svg", desc: "Finding and understanding patterns in shapes", duration: "", demo: "src/Videos/Class_6/Class_6_Video4.mp4", added: "" },
   
   { cls: 7, term: 1, no: 1, title: "Exploring Expressions, Distributive Property and Consecutive Numbers", topic: "Number System", image: "src/cards/number-system.svg", desc: "Numbers	Understanding algebraic expressions, distribution, and number sequences", duration: "", demo: "/src/Videos/Class_7_Term1/Class_7_Term1_Video1.mp4", added: "" },
-  { cls: 7, term: 1, no: 2, title: "Adding Algebraic Expressions and Solving Equations ", topic: "Geometry", image: "src/cards/geometry.svg", desc: "Adding expressions and finding unknown values", duration: "", demo: "/src/Videos/Class_7_Term1/Class_7_Term1_Video2.mp4", added: "" },
+  { cls: 7, term: 1, no: 2, title: "Adding Algebraic Expressions and Solving Equations ", topic: "Geometry", image: "src/cards/geometry.svg", desc: "Adding expressions and finding unknown values", duration: "", demo: "/src/Videos/Class_7_Term1/Class_7_Term1_Video2_new.mp4", added: "" },
   
   { cls: 7, term: 2, no: 1, title: "Numbers in exponential form", topic: "Algebra", image: "src/cards/algebra.svg", desc: "Writing and understanding numbers using powers", duration: "", demo: "/src/Videos/Class_7_Term2/Chapter_1/Class_7_term2_chapter_1-video.mp4", added: "" },
   { cls: 7, term: 2, no: 2, title: "Laws of exponents", topic: "Geometry", image: "src/cards/geometry.svg", desc: "Basic rules for working with exponents", duration: "", demo: [
