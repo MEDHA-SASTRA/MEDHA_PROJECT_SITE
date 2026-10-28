@@ -33,7 +33,7 @@ const ABOUT = {
     },
     {
       t: "Educational Benefits",
-      d: "Interactive digital tools offer several benefits in mathematics education. They make abstract concepts such as functions, transformations, and geometric paths easier to understand through dynamic diagrams. Students engage in active learning by experimenting with sliders and constructions to discover mathematical rules on their own.\n\n • AI tools help teachers save time by preparing worksheets, quizzes, and lesson ideas quickly. Students receive instant feedback, enabling them to check their answers and correct misconceptions.\n\n • Learning activities can be personalised to suit students’ different learning levels and speeds."
+      d: "• Interactive digital tools offer several benefits in mathematics education. They make abstract concepts such as functions, transformations, and geometric paths easier to understand through dynamic diagrams. Students engage in active learning by experimenting with sliders and constructions to discover mathematical rules on their own.\n\n • AI tools help teachers save time by preparing worksheets, quizzes, and lesson ideas quickly. Students receive instant feedback, enabling them to check their answers and correct misconceptions.\n\n • Learning activities can be personalised to suit students’ different learning levels and speeds."
     }
   ]
 };
